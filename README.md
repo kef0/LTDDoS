@@ -1,2 +1,2 @@
 # LTDDOS
-Простой досер. Подойдёт для любой платформы.
+A simple DDoS Layer7 script for beginners on Windows
