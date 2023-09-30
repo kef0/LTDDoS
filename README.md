@@ -1,4 +1,4 @@
 # LTDDoS
-A simple DDoS Layer7 program for beginners on Windows
+A simple DDoS Layer7 script
 
-[Download LTDDoS](https://github.com/p1mpus/LTDDoS/releases)
+![LTDDoS](https://github.com/kef0/LTDDoS/assets/45327810/d83b0361-a364-4ddf-9872-e72703e718c7)
