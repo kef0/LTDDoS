@@ -1,3 +1,5 @@
+undetected_chromedriver
 requests
 cloudscraper
+httpx
 pycryptodome
