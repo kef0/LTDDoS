@@ -1,7 +1,7 @@
 # LTDDoS
 A simple DDoS Layer7 script
 
-METHODS:
+## METHODS:
 1. HTTP-RAW
 2. CF-BYPASS
 3. HTTP/2-RAW
