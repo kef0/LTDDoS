@@ -3,3 +3,4 @@ requests
 cloudscraper
 httpx
 pycryptodome
+setuptools
