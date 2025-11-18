@@ -1,14 +1,15 @@
 # LTDDoS
-A simple DDoS Layer7 script
+## ! АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТЬ ЗА ВАШИ ДЕЙСТВИЯ !
+## ! СКРИПТ ПРЕДОСТАВЛЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ !
 
 ## METHODS:
-1. HTTP-RAW
-2. CF-BYPASS
-3. BYPASS
+1. GET
+2. GET CF-BYPASS
+3. BYPASS-SOCKS
 
-![LTDDoS](https://github.com/kef0/LTDDoS/assets/45327810/01973880-4fef-4db6-9ae8-328fcbd2f43e)
+![LTDDoS](<img width="803" height="703" alt="image" src="https://github.com/user-attachments/assets/4509949f-1ddb-428e-9bf2-8e95d98478fc" />)
 
 ## Install:
 1. git clone https://github.com/kef0/LTDDoS.git
 2. cd LTDDoS && pip install -r requirements.txt
-3. python LTDDoS_run.py
+3. python LTDDoS.py
