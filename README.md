@@ -7,7 +7,7 @@
 2. GET CF-BYPASS
 3. BYPASS-SOCKS
 
-![LTDDoS](<img width="803" height="703" alt="image" src="https://github.com/user-attachments/assets/4509949f-1ddb-428e-9bf2-8e95d98478fc" />)
+![LTDDoS](<img width="803" height="703" alt="228" src="https://github.com/user-attachments/assets/3a7935a6-a2ea-4022-bbf9-50fb79b1e303" />)
 
 ## Install:
 1. git clone https://github.com/kef0/LTDDoS.git
