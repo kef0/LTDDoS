@@ -1,6 +1,5 @@
-undetected_chromedriver
-requests
-cloudscraper
-httpx
-pycryptodome
-setuptools
+cfscrape
+fake-useragent
+beautifulsoup4
+PySocks
+urllib3==1.26.18
